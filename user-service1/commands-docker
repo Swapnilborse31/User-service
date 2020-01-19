@@ -1,0 +1,12 @@
+docker build -t  user-service1:latest .
+   93  docker images
+   94  docker run -p 8081:8081 ac924eac9ba4
+   95  docker run ac924eac9ba4
+   96  docker images ac924eac9ba4
+   97  docker config
+   98  mvn clean install
+   99  docker build -t  user-service1:latest .
+  100  docker images
+  101  docker run 99dbb2ed0b96
+  102  history
+
